@@ -49,7 +49,15 @@ body {
   
   
 }
-
+.home h1 {
+  font-family: 'Sacramento', cursive;
+  color: var(--pink);
+  font-size: 4rem;
+  font-weight: bold;
+   text-shadow: var(--shadow);
+  
+  
+}
 .hero h4,
 .hero h3 {
   font-size: 1.6rem;
